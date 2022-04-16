@@ -1,0 +1,29 @@
+.activePage {
+    background-color: indianred;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px 0px;
+}
+
+.page, .previous, .next {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin: 0px 2px;
+}
+
+.page {
+    width: 36px;
+    text-align: center;
+}
+
+.avatar {
+    max-width: none;
+    border-radius: 100px;
+}
+
+
