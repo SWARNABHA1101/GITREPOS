@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GITREPOS/static/css/main.f0cd7576.css",
+    "main.js": "/GITREPOS/static/js/main.ef7b0fc0.js",
+    "static/js/787.fd347660.chunk.js": "/GITREPOS/static/js/787.fd347660.chunk.js",
+    "index.html": "/GITREPOS/index.html",
+    "main.f0cd7576.css.map": "/GITREPOS/static/css/main.f0cd7576.css.map",
+    "main.ef7b0fc0.js.map": "/GITREPOS/static/js/main.ef7b0fc0.js.map",
+    "787.fd347660.chunk.js.map": "/GITREPOS/static/js/787.fd347660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0cd7576.css",
+    "static/js/main.ef7b0fc0.js"
+  ]
+}
